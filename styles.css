@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+.book-library{
+	box-shadow: 1px 1px 2px 2px lightgrey;
+	margin: 2vw;
+	
+}
+h1{
+	text-align: center;
+}
+.book-library{
+	margin: 20px 10px;
+}
+.book img{
+	  display: block;
+      margin: auto;
+}
+.book{
+	color: rgb(46, 204, 113);
+}
+p{
+	color: #777777;
+}
+button{
+	background-color:#2ecc71;
+	border: none;
+	color: white;
+	width: 92vw;
+	margin-left:1vw;
+	border-radius: 3px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.library{
+	margin: 30px 0;
+	width: 91vw;
+	height: 20px;
+	background-color: rgb(255, 255, 255);
+}
+body{
+	background-color: #f8f8f8;
+}
+h2{
+	color:black
+}
